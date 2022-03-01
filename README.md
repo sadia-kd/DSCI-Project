@@ -1,4 +1,6 @@
 # DSCI-Project
 DSCI Project
 
-Members: Sadia, Jessica, Jia, Quynh (Group #36)
+Members: Sadia Khan Durani, Quynh Cao, Jessica DeBiasio, Jia Jun Liu
+
+Group # 36
