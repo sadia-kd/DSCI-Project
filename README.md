@@ -1,6 +1,6 @@
-# DSCI-Project
+# DSCI 100 - Presence of Heart Disease
 
-DSCI Project
+DSCI 100 Project
 
 Members: Sadia Khan Durani, Quynh Cao, Jessica DeBiasio, Jia Jun Liu
 
